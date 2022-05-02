@@ -1,6 +1,6 @@
 ## Project Name & Pitch
 
-Upbit Application
+### Upbit Application
 
 An application that is used to view personal cryptocurrency investment status and each cryptocurrency's chart..etc
 
