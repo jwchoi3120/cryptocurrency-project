@@ -1,8 +1,8 @@
 ## Project Name & Pitch
 
-Upbit Client
+Upbit Application
 
-A client used to view personal cryptocurrency investment status and each cryptocurrency's chart..etc
+An application that is used to view personal cryptocurrency investment status and each cryptocurrency's chart..etc
 
 ## Project Status
 
@@ -26,18 +26,12 @@ Clone down this repository. You will need `python` and any program which you can
 
 ## Reflection
 
-  - Context for this project : I started this project to experience with upbit openAPI and dataframe. Recently, I have started to invest on cryptocurrency, and this motivated me to analyze charts and find out how the market flows.
-  - Challenge : 
-  - Unexpected obstacles?
-  - Tools used to implement this project?
-      - This might seem obvious because you are IN this codebase, but to all other humans now is the time to talk about why you chose webpack instead of create react app, or D3, or vanilla JS instead of a framework etc. Brag about your choices and justify them here.  
+January, 2022 I have started to work on NFT project at my company. I have decided to join a community and buy the NFT(Zipcy's SuperNormal) which my friend started, in order to study how NFT market works while I work on the project at my company. In order to buy that NFT, I had to get ETH first. After earning profit with the NFT I bought, I wanted to study deeper about cryptocurrency. That's how I jumped into cryptomarket. 
 
-#### Example:  
+In Korea, there is a Digital-Asset Exchange Website called Upbit. I used Upbit to exchange cryptocurrencies. I wanted to make an application which can use Upbit's openAPI and play around with it. 
 
-This was a 3 week long project built during my third module at Turing School of Software and Design. Project goals included using technologies learned up until this point and familiarizing myself with documentation for new features.  
+Project goals included using technologies learned in Big Data course that I took while I was attending MSU, and to increase my Python experience & skils. This project is still in work, in order to expand my skills in computer science field.
 
-Originally I wanted to build an application that allowed users to pull data from the Twitter API based on what they were interested in, such as 'most tagged users'. I started this process by using the `create-react-app` boilerplate, then adding `react-router-4.0` and `redux`.  
+One of the main challenges I ran into was making this program Object Oriented. This lead me to spend a few days on a research spike into how to use class object practically, and how to uee modules in Python.
 
-One of the main challenges I ran into was Authentication. This lead me to spend a few days on a research spike into OAuth, Auth0, and two-factor authentication using Firebase or other third parties. Due to project time constraints, I had to table authentication and focus more on data visualization from parts of the API that weren't restricted to authenticated users.
-
-At the end of the day, the technologies implemented in this project are React, React-Router 4.0, Redux, LoDash, D3, and a significant amount of VanillaJS, JSX, and CSS. I chose to use the `create-react-app` boilerplate to minimize initial setup and invest more time in diving into weird technological rabbit holes. In the next iteration I plan on handrolling a `webpack.config.js` file to more fully understand the build process.
+This project was very fun and I could learn many things from it. I have got familiar with using many kinds of modules, and play around with matplot. Also, I could learn how crypto market flows. 
